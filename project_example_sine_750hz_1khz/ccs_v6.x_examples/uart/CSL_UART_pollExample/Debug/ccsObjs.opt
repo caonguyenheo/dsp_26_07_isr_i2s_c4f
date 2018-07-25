@@ -1,0 +1,1 @@
+"./aic3204_config.obj" "./i2s_Intr.obj" "./main.obj" "./modulation_4fsk.obj" "../VC5505_UART.cmd" -l"Debug/C55XXCSL_LP.lib" -l"Debug/dsp.lib" -lrts55x.lib -llibc.a 
